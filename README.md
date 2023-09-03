@@ -1,7 +1,7 @@
 # BootstrapNavbar
-Bootstrap navbar, made using HTML/CSS.
+Typical Bootstrap navbar, made using HTML/CSS.
 
-Imports (for reference):
+#Imports (for reference):
 ***
     <link
       rel="stylesheet"
