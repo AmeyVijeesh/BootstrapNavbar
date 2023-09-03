@@ -1,5 +1,5 @@
 # BootstrapNavbar
-Typical Bootstrap navbar, made using HTML/CSS.
+Typical Bootstrap navbar, made using HTML/CSS. Some other random HTML.
 
 # Imports (for reference):
 ***
